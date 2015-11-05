@@ -2,3 +2,4 @@
 * Country: Spain
 * Food: pizza
 * Hobby: football
+* Color: Blue
